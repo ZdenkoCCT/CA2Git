@@ -4,3 +4,4 @@ https://data.cso.ie/table/CPM04 -National average price2001-2011
 https://data.cso.ie/table/CPM08 -National average price 1970-2001
 https://www.ers.usda.gov/data-products/livestock-and-meat-international-trade-data/ -US beef/catlle monthly trade
 https://www.ers.usda.gov/webdocs/DataFiles/52160/history.xls -US beef price
+https://data.bls.gov/pdq/SurveyOutputServlet- us beef steak prices
